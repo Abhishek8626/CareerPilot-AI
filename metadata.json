@@ -1,0 +1,6 @@
+{
+  "name": "Career Roadmap Builder",
+  "description": "An AI-powered career goal planning, skill-gap analysis, and customized learning path builder for aspiring tech professionals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
